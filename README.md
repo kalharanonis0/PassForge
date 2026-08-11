@@ -22,13 +22,8 @@ The application provides a simple and modern interface with a circular progress 
 * 📏 Password length analysis
 * ⚠️ Common password detection
 * 💡 Personalized security recommendations
-* 👁️ Show / hide password
-* ⌨️ Press **Enter** to analyze the password
-* 🏠 Home page
-* ℹ️ Information / About page
-* 🎨 Dynamic UI colors based on password strength
 * 🖥️ Windows Forms desktop interface
-
+  
 ## 🛡️ Password Analysis
 
 PassForge evaluates passwords using several security factors:
