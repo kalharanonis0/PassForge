@@ -219,7 +219,7 @@ Password security depends on many factors, including password uniqueness, storag
 
 ## 👨‍💻 Author
 
-**Kalhara**
+**Kalhara Nonis**
 
 Developed as a C# / .NET cybersecurity-focused project.
 
