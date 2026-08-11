@@ -67,8 +67,30 @@ For example:
 • Add at least one number (0-9).
 • Add at least one special character (!@#$%).
 ```
+### 🔐 Common Password Detection
+
+PassForge checks whether a password matches commonly used or easily guessable passwords. Passwords such as `password`, `123456`, `qwerty`,`admin` and similar predictable combinations are considered weak because they are frequently targeted in password attacks.
+
+If a common password is detected, PassForge reduces the overall security score and provides a recommendation to choose a more unique and secure password.
+
+**Example:**
+
+```text
+Password: admin
+
+Common Password: ❌ Detected
+
+Recommendation:
+• Avoid commonly used passwords.
+• Choose a unique password with a combination of
+  uppercase, lowercase, numbers, and special characters.
+```
+
+This feature helps users avoid predictable passwords and improve their overall password security.
 
 Only the recommendations relevant to the detected weaknesses are displayed.
+
+![Weak Password](screenshots/weak-password.png)
 
 ## 🖥️ User Interface
 
