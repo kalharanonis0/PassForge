@@ -221,6 +221,8 @@ Password security depends on many factors, including password uniqueness, storag
 
 **Kalhara Nonis**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kalhara-nonis/)
+
 Developed as a C# / .NET cybersecurity-focused project.
 
 ## 📄 License
