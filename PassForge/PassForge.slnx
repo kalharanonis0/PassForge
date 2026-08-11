@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PassForgeSetup/PassForgeSetup.vdproj" Type="Installer" />
+  <Project Path="PassForge.csproj" />
+</Solution>
